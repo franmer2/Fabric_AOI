@@ -23,7 +23,7 @@ Ci-dessous, une vue globale de l'architecture que nous allons mettre en place :
 ![Architecture](Pictures/001_ArchitectureGenerale.png)
 
 
-Les fichiers pour cet article se trouvent [ici](/Fabric/Fabric%20+%20Azure%20Open%20AI/Data/) dans mon repos Github. 
+Les fichiers pour cet article se trouvent [ici](/Data/) dans mon repos Github. 
 Pour cet exemple, ces fichiers sont stockés dans la partie "File" de mon Lakehouse.
 
 ![Lakehouse](Pictures/002.png)

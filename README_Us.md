@@ -23,7 +23,7 @@ Below is an overview of the architecture we will be implementing:
 
 ![Architecture](Pictures/001_ArchitectureGenerale.png)
 
-The files for this article can be found here on my Github repo [here](/Fabric/Fabric%20+%20Azure%20Open%20AI/Data/). 
+The files for this article can be found here on my Github repo [here](/Data/). 
 
 These files are then stored in the "File" part of my Lakehouse.
 
